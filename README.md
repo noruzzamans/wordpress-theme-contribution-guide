@@ -194,7 +194,9 @@ Text Domain: my-custom-theme
 > 🆕 **What's New in WordPress 7.2:**  
 > On September 16, 2026, WordPress officially announced **Ipsum** as the upcoming default theme for WordPress 7.2. Project lead Matt Mullenweg announced that WordPress is **moving away from year-based theme names** ("Twenty Twenty-X") to purposeful names.  
 > * **Concept:** An intentionally minimal, "blank canvas" blog theme.  
-> * **Design Team:** Henrique Iamarino ([@iamarinoh](https://profiles.wordpress.org/iamarinoh/) - Lead Designer), Carolina Nymark ([@poena](https://profiles.wordpress.org/poena/)), Maggie Cabrera ([@onemaggie](https://profiles.wordpress.org/onemaggie/)), Juanfra Aldasoro ([@juanfra](https://profiles.wordpress.org/juanfra/)).  
+> * **Design Lead:** [Henrique Iamarino](https://profiles.wordpress.org/iamarinoh/) (`@iamarinoh`)  
+> * **Development Leads:** [Maggie Cabrera](https://profiles.wordpress.org/onemaggie/) (`@onemaggie`), [Carolina Nymark](https://profiles.wordpress.org/poena/) (`@poena`)  
+> * **Lead Mentor:** [Juanfra Aldasoro](https://profiles.wordpress.org/juanfra/) (`@juanfra`)  
 > * **Repository:** [github.com/WordPress/ipsum](https://github.com/WordPress/ipsum)
 
 ### 1. Instant Browser Testing (Zero Install!)
