@@ -1,0 +1,13 @@
+# System files
+.DS_Store
+
+# Backups
+*.bak
+
+# Python artifacts
+__pycache__/
+*.pyc
+update_guide.py
+
+# Temp folders
+temp_*/
